@@ -1,5 +1,5 @@
 var webhookmessage = " ส่งแบบฟอร์มแล้ว"
-var discordwebhook = "https://discord.com/api/webhooks/1115336551082233907/Z0WUAF24BFeGgw6uy81cnSm7pSL5aPAqKZCPqku-S3J5Tqot68HmCLzU21Rwu1job7oz"
+var discordwebhook = "https://discord.com/api/webhooks/************/******************************************************"
 
 function getLatestAnswerFromSheet() {
   // Open the Google Sheet by its ID
